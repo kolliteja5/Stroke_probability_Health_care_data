@@ -1,8 +1,0 @@
-installations:
-
-1) GOW (Gnu for Windows)
--> first do :https://www.youtube.com/watch?v=d4A83p1dxPo
-after executing steps in Windows PowerShell 
-then open new command prompt and type: "gow --list" to display all the executable items.
-if it displays upto approx 5 lines then GOW is installed correctly.
-2) 
